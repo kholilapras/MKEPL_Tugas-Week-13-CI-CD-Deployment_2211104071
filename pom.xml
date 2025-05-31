@@ -15,8 +15,8 @@
 <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/jatihusen/Basic-Java-Maven</url>
+      <name>Kholil GitHub Packages</name>
+      <url>https://maven.pkg.github.com/kholilapras/MKEPL_Tugas-Week-13-CI-CD-Deployment_2211104071</url>
     </repository>
   </distributionManagement>
   
